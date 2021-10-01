@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurjot Singh</h1>
 <h3 align="center">I'm a student of Engineering At Poornima Group of Institution</h3>
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gur-jot&label=Profile%20views&color=0e75b6&style=flat" alt="gur-jot" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gur-jot" alt="gur-jot" /></a> </p>
