@@ -11,6 +11,7 @@
 - 📝 I regularly write articles on [https://medium.com/@gurjot9803](https://medium.com/@gurjot9803)
 
 - 📫 How to reach me **gurjot9803@gmail.com**
+- 📫 found me here  **gur_jot.bio.link**
 
 - ⚡ Fun fact **I love to watch sci-fi stuff**
 
